@@ -8,7 +8,7 @@ La validación de hipótesis es un proceso fundamental en la toma de decisiones 
 - [Herramientas](#herramientas)
 - [Lenguajes](#lenguajes)
 - [Dataset](/Dataset/README.md)
-- [Procesamiento y preparación de datos](#análisis-exploratorio-de-datos)
+- [Procesamiento y preparación de datos](#procesamiento-y-preparación-de-datos)
 - [Visualización y Análisis de Datos](/Visualizacion/README.md)
 - [Pruebas y Resultados](/Jupiter_Notebook/README.md)
 - [Conclusiones y Recomendaciones](/Presentacion/)
@@ -26,7 +26,7 @@ Validar o refutar las hipótesis planteadas por la discográfica sobre qué hace
   4. Los artistas con un mayor número de canciones en Spotify tienen más streams.
   5. Las características de la música influyen en el éxito en términos de cantidad de streams en Spotify.
 
-## Análisis exploratorio de datos
+## Procesamiento y preparación de datos
 
 1. Conectar/importar datos a herramientas:
 
