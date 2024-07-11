@@ -9,7 +9,7 @@ La validación de hipótesis es un proceso fundamental en la toma de decisiones 
 - [Lenguajes](#lenguajes)
 - [Procesamiento y preparación de datos](#procesamiento-y-preparación-de-datos)
 - [Visualización y Análisis de Datos](/Visualizacion/README.md)
-- [Pruebas y Resultados](/Jupiter_Notebook/README.md)
+- :bar_chart:[Pruebas y Resultados](/Jupiter_Notebook/README.md)
 - [Conclusiones y Recomendaciones](/Presentacion/)
 
 ## Introducción
