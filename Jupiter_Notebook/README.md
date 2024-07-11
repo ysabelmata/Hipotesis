@@ -1,4 +1,4 @@
-### Contenido
+# Contenido
 
 En estos archivos encontraras información de las pruebas aplicadas para la validación de las hipotesis. 
 
