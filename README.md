@@ -4,13 +4,13 @@ La validación de hipótesis es un proceso fundamental en la toma de decisiones 
 
 ## Temas
 
-- [Introducción](#introducción)
-- [Herramientas](#herramientas)
-- [Lenguajes](#lenguajes)
-- [Procesamiento y preparación de datos](#procesamiento-y-preparación-de-datos)
-- [Visualización y Análisis de Datos](/Visualizacion/README.md)
-- :bar_chart:[Pruebas y Resultados](/Jupiter_Notebook/README.md)
-- [Conclusiones y Recomendaciones](/Presentacion/)
+- :bulb: [Introducción](#introducción)
+- :hammer_and_wrench: [Herramientas](#herramientas)
+- [</>],[Lenguajes](#lenguajes)
+- :gear: [Procesamiento y preparación de datos](#procesamiento-y-preparación-de-datos)
+- :bar_chart: [Visualización y Análisis de Datos](/Visualizacion/README.md)
+- :bookmark: [Pruebas y Resultados](/Jupiter_Notebook/README.md)
+- :heavy_check_mark: [Conclusiones y Recomendaciones](/Presentacion/)
 
 ## Introducción
 En un mundo en el que la industria musical es extremadamente competitiva y está en permanente evolución, la capacidad de tomar decisiones basadas en datos se ha convertido en un activo invaluable. En este contexto, una discográfica se enfrenta al emocionante desafío de lanzar un nuevo artista en el escenario musical global. Afortunadamente, cuenta con una herramienta poderosa: un extenso dataset de Spotify con información sobre las canciones más escuchadas en 2023.
